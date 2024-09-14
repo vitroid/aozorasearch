@@ -11,6 +11,7 @@ The full-text search system for [Aozora Bunko](http://www.aozora.gr.jp/) by [Gro
 ### Prepare
 
     $ git clone https://github.com/myokoym/aozorasearch
+    $ cd aozorasearch
     $ bundle install
     $ git submodule update --init  # Free space of 11GB is required
 
